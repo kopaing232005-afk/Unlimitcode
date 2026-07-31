@@ -1,1 +1,10 @@
-
+{
+    "devices": [
+        {
+            "id": "B62A8C67",
+            "points": 10,
+            "status": "active",
+            "expire": "2027-07-31 10:36"
+        }
+    ]
+}
